@@ -4,4 +4,4 @@ Tto share and validate with you some recent comments from Microsoft SMEs and int
 Changes to curriculum
 ## [Azure Virtual Desktop](/AzureVirtualDesktop.md)
 ## [Azure Backup and Recovery](/Azure%20Backup%20and%20Recovery.md)
-## [Kubernetes]()
+## [Kubernetes](/Kubernetes.md)
