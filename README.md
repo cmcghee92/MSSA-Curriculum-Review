@@ -1,5 +1,5 @@
 # MSSA-Curriculum-SCA
 Supplemental material
 ## [Azure Virtual Desktop](/docs/AzureVirtualDesktop.md)
-## [Azure Backup and Recovery](/Azure%20Backup%20and%20Recovery.md)
+## [Azure Backup and Recovery](/docs/AzureBackupandRecovery.md)
 ## [Kubernetes](/Kubernetes.md)
