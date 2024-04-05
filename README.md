@@ -4,3 +4,4 @@ Tto share and validate with you some recent comments from Microsoft SMEs and int
 Changes to curriculum
 ## [Azure Virtual Desktop](https://github.com/cmcghee92/MSSA-Curriculum-Review/blob/main/AzureVirtualDesktop.md)
 ## [Azure Backup and Recovery]()
+## [Kubernetes]()
