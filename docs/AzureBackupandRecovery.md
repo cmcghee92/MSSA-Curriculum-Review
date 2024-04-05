@@ -4,8 +4,6 @@
 
 * AZ-104: Deploy and manage Azure compute resources
 
-### Modules:
-
   * Configure file and folder backups
 
   * Configure virtual machine backups
@@ -13,8 +11,6 @@
 ## Additional Learning paths
 
 AZ-305: Design business continuity solutions
-
-### Modules:
 
   * Describe high availability and disaster recovery strategies
 
